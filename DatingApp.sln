@@ -23,6 +23,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DatingApp-SPA", "DatingApp-
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "53315"
+		SlnRelativePath = "DatingApp-SPA\"
 	EndProjectSection
 EndProject
 Global
@@ -36,7 +37,6 @@ Global
 		{661A611F-C171-4A6A-98D8-50BBBEE0A4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661A611F-C171-4A6A-98D8-50BBBEE0A4D3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F870E9DE-B6D2-46D2-98C6-F0BB9CA67703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F870E9DE-B6D2-46D2-98C6-F0BB9CA67703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F870E9DE-B6D2-46D2-98C6-F0BB9CA67703}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{F870E9DE-B6D2-46D2-98C6-F0BB9CA67703}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
